@@ -1,6 +1,6 @@
 # Harsh Vardhan Singh
 
-📧 Email: harshvsingh2403@gmail.com | 📱 Phone: (+91) 7003391278
+📧 Email: harshvsingh2403@gmail.com
 🔗 LinkedIn: [linkedin.com/in/hvs42](https://www.linkedin.com/in/hvs42)
 🐙 GitHub: [github.com/hvs42](https://github.com/hvs42) | 💻 Leetcode: [leetcode.com/hvs42](https://leetcode.com/hvs42)
 
